@@ -3,3 +3,5 @@ tensorflow
 pillow 
 matplotlib 
 requests
+matplotlib
+opencv-python
