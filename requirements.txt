@@ -1,7 +1,6 @@
-streamlit 
-tensorflow 
-pillow 
-matplotlib 
-requests
+streamlit
+tensorflow==2.10
 matplotlib
-opencv-python
+numpy
+pillow
+requests
